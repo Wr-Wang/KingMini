@@ -1,0 +1,12 @@
+E:\Demo\KingMini\KingMini\LinqConsole\bin\Debug\netcoreapp3.1\LinqConsole.exe
+E:\Demo\KingMini\KingMini\LinqConsole\bin\Debug\netcoreapp3.1\LinqConsole.deps.json
+E:\Demo\KingMini\KingMini\LinqConsole\bin\Debug\netcoreapp3.1\LinqConsole.runtimeconfig.json
+E:\Demo\KingMini\KingMini\LinqConsole\bin\Debug\netcoreapp3.1\LinqConsole.runtimeconfig.dev.json
+E:\Demo\KingMini\KingMini\LinqConsole\bin\Debug\netcoreapp3.1\LinqConsole.dll
+E:\Demo\KingMini\KingMini\LinqConsole\bin\Debug\netcoreapp3.1\LinqConsole.pdb
+E:\Demo\KingMini\KingMini\LinqConsole\obj\Debug\netcoreapp3.1\LinqConsole.AssemblyInfoInputs.cache
+E:\Demo\KingMini\KingMini\LinqConsole\obj\Debug\netcoreapp3.1\LinqConsole.AssemblyInfo.cs
+E:\Demo\KingMini\KingMini\LinqConsole\obj\Debug\netcoreapp3.1\LinqConsole.csproj.CoreCompileInputs.cache
+E:\Demo\KingMini\KingMini\LinqConsole\obj\Debug\netcoreapp3.1\LinqConsole.dll
+E:\Demo\KingMini\KingMini\LinqConsole\obj\Debug\netcoreapp3.1\LinqConsole.pdb
+E:\Demo\KingMini\KingMini\LinqConsole\obj\Debug\netcoreapp3.1\LinqConsole.genruntimeconfig.cache
