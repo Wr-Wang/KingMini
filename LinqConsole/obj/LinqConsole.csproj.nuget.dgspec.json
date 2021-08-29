@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Demo\\KingMini\\KingMini\\LinqConsole\\LinqConsole.csproj": {}
+    "E:\\Demo\\KingMini\\LinqConsole\\LinqConsole.csproj": {}
   },
   "projects": {
-    "E:\\Demo\\KingMini\\KingMini\\LinqConsole\\LinqConsole.csproj": {
+    "E:\\Demo\\KingMini\\LinqConsole\\LinqConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Demo\\KingMini\\KingMini\\LinqConsole\\LinqConsole.csproj",
+        "projectUniqueName": "E:\\Demo\\KingMini\\LinqConsole\\LinqConsole.csproj",
         "projectName": "LinqConsole",
-        "projectPath": "E:\\Demo\\KingMini\\KingMini\\LinqConsole\\LinqConsole.csproj",
+        "projectPath": "E:\\Demo\\KingMini\\LinqConsole\\LinqConsole.csproj",
         "packagesPath": "C:\\Users\\xiaohui\\.nuget\\packages\\",
-        "outputPath": "E:\\Demo\\KingMini\\KingMini\\LinqConsole\\obj\\",
+        "outputPath": "E:\\Demo\\KingMini\\LinqConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

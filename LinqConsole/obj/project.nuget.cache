@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "W7OrVRxqxUqMm6Q8ZW4azt1mUNF0T3Ho3oAHGOI2+IlMa/A8wdxFk0TFB4yv2jx8kVTbSltob8JLRU+/1kUoqg==",
+  "dgSpecHash": "3igO39nk+EADMADJ2MYdWNMYwFiLv5oBKmuljqOu0BIQxXmc8km2nDmZdgaMR5ZzhR2Su4r2B/ErkOzvbIFFCQ==",
   "success": true,
-  "projectFilePath": "E:\\Demo\\KingMini\\KingMini\\LinqConsole\\LinqConsole.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Demo\\KingMini\\LinqConsole\\LinqConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xiaohui\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
